@@ -1,6 +1,6 @@
 # Variables in Python:
 age = 42
-age + 1 = 43
+# age + 1 = 43
 
 # Naming variables:
 # Underscore is Popular in Python*
