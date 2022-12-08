@@ -1,18 +1,19 @@
-# Variable in Python:
-# age = 42
-# age + 1 = 43
+# Variables in Python:
+age = 42
+age + 1 = 43
 
 # Naming variables:
-# player_one = 0. Underscore is Popular in Python*
+# Underscore is Popular in Python*
+player_one = 0
 # all capital letter var names indicate a 'const'
-# PI = 3.14259
+PI = 3.14259
 
-# score = 500
-# score = score + 500
+score = 500
+score = score + 500
 
 # Assignment Operators:
-# score += 500
-# score -= 1000
+score += 500
+score -= 1000
 
 # The 'print' function: The print() func prints out any
 # values we pass to "standard output". It does not
