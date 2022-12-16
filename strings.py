@@ -76,7 +76,7 @@ print(days)
 # into the overall string.
 f"there are {24*60*60} seconds in a day."
 # "there are 86400 seconds in a day."
-print(f"You are {days} old!!")
+print(f"You are {days} days old!!")
 
 # Shopping Cart Exercise:
 print("WELCOME TO THE USELESS STORE")
