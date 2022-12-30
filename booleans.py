@@ -17,3 +17,21 @@ isLoggedIn = True
 
 # Truthy = Everthing Else!
 
+# The 'in' Operator: Gives us a True or False value.
+# Looks to see if an item is a member of a sequence.
+'a' in 'cat' # True
+'A' in 'hat' # False
+
+# ord() - Lists the order of the value in the Unicode
+# 'code point' (list).
+print(ord('a')) # 97
+print(ord('$')) # 36
+
+
+
+# "Dollar Tree"
+print("*********************")
+i = 1
+while i <= 13:
+    print(i * '$')
+    i = i + 1
